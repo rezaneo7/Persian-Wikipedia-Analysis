@@ -6,3 +6,5 @@
     width=35%
     >
 </p>
+
+Developing search queries using TF-IDF for wikipedia dataset. Also, use kmeans to cluster articles. All of works are implemented with pyspark. More details can be found within notebook files.
